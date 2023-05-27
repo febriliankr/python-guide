@@ -1,5 +1,13 @@
 # Guide Python, Windows
 
+## Requirements
+
+- Python https://www.python.org/downloads/windows/
+- Git Bash https://git-scm.com/downloads
+- Conda https://conda.io/projects/conda/en/latest/user-guide/install/windows.html
+
+## Starting Virtual Environment for a Project
+
 - masuk ke C:\Users\[User]\anaconda3\envs
 - klik kanan, open Git Bash
 - conda create -n nama_project_atau_folder
@@ -8,12 +16,6 @@
 - [CTRL + `] untuk membuka terminal di vscode
 - `conda activate nama_project_atau_folder` untuk mengaktifkan virtual environment python di terminal vscode
 - sekarang, sudah bisa `pip install`, `python`, dan lain-lain
-
-## Requirements
-
-- Python https://www.python.org/downloads/windows/
-- Git Bash https://git-scm.com/downloads
-- Conda https://conda.io/projects/conda/en/latest/user-guide/install/windows.html
 
 # Guide Python, MacOS
 
